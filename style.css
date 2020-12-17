@@ -1,8 +1,28 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-}
-.passwordBox {
-    margin: auto;
-    font-family: courier;
-}
+    /* This changes "Password generator" (the h1 element) to red */
+    
+    h1 {
+        color: red;
+    }
+    /* This changes the body elements, it aligns the text in center, changes
+the font and adds a margin */
+    
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        margin: 10%
+    }
+    /* This makes sure the box the password is displayed in is in the middle of the page
+and changes the font */
+    
+    .passwordBox {
+        margin: auto;
+        font-family: courier;
+    }
+    
+    button {
+        background-color: green;
+        color: white;
+        padding: 10px 27px;
+        text-align: center;
+        font-size: 16px;
+    }
