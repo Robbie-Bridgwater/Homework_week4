@@ -2,7 +2,7 @@
 
 
 **What this is:** 
-*This is a random generator, the notations inside the file are everywhere and will make it incredibly apparent how everything works.*
+*This is a random password generator, the notations inside the index/style/js files are everywhere and should make it incredibly apparent how everything works.*
 
 
 ## Live URL
