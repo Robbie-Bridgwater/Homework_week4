@@ -5,9 +5,9 @@ var numeric = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 var specialChars = ["#", "!", "£", "$", "%", "^", "&", "*", "(", ")", "{", "}", "@", "~", ";", ":", "<", ",", ".", ">", "/"];
 
 // This initialises the button as a variable for the JS to interact with.
-var generatePassword = document.getElementById("generatePassword");
+var generatePassword = document.getElementById("generate");
 // This initialises the span div as a variable for the JS to interact with.
-var span = document.querySelector("span");
+var span = document.getElementById("Password");
 
 // Below is an event listener for when the generate password button is clicked
 // This is a while loop that will prompt the user with a question asking how long they want their password
@@ -88,6 +88,6 @@ generatePassword.addEventListener("click", function() {
         // This concatenates the variable "letter" and the empty string called "password" together.
         password += letter;
     }
-    // This replaces the span content within the HTML file with the finished, randomised, password.
-    span.textContent = password;
+    // Hey presto, this replaces the text content within the HTML file with the finished, randomised, password. 
+    Password.textContent = password;
 })
