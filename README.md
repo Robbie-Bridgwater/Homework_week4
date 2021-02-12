@@ -1,4 +1,4 @@
-# Weather-Dashboard
+# Random-Password-Generator
 - A password generator that outputs a random password dependent on user preferences.
 
 ## Link
