@@ -10,8 +10,6 @@ Launch the app ---> [here](https://robbie-bridgwater.github.io/Random-Password-G
 - I WANT to randomly generate a password that meets certain criteria
 - SO THAT I can create a strong password that provides greater security
 
-
-
 ## Acceptance Criteria
 - GIVEN I need a new, secure password
 - WHEN I click the button to generate a password
@@ -29,8 +27,6 @@ Launch the app ---> [here](https://robbie-bridgwater.github.io/Random-Password-G
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
 
-
-
 ## Languages Used
 - HTML 
 - CSS 
@@ -42,3 +38,6 @@ How the app should look when loaded --->
 ![image](assets/img/screenshot.png)
 ![image](assets/img/screenshot2.png)
 ![image](assets/img/screenshot3.png)
+
+## Contact Information
+- Email: Robbie_Bridgwater@hotmail.co.uk
