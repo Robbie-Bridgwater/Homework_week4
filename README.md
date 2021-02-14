@@ -39,4 +39,6 @@ Launch the app ---> [here](https://robbie-bridgwater.github.io/Random-Password-G
 ## Screenshots
 How the app should look when loaded --->
 
-![image](assets/screenshot.png)
+![image](assets/img/screenshot.png)
+![image](assets/img/screenshot2.png)
+![image](assets/img/screenshot3.png)
